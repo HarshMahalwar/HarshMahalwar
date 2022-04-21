@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-*Anmol Dhiman* 
+*Harsh Mahalwar* 
 
 Here are some ideas to get you started:
 
