@@ -8,5 +8,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Django related projects
 - 💬 Ask me about Web development related technology, DSA, ML/AI and Django
 - 📫 How to reach me: harsh.mahalwar@gmail.com
-- My Portfolio wesite: https://harshmahalwar.github.io/portfolio/
 - LeetCode: https://leetcode.com/Harsh_mahalwar/
